@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: polarbookshop_hp/catalog-service
+  IMAGE_NAME: npbird-ca/catalog-service
   VERSION: latest
 
 jobs:
